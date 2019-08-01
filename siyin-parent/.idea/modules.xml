@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/siyin-basic-parent/siyin-basic-generator/siyin-basic-generator.iml" filepath="$PROJECT_DIR$/siyin-basic-parent/siyin-basic-generator/siyin-basic-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siyin-basic-parent/siyin-basic-parent.iml" filepath="$PROJECT_DIR$/siyin-basic-parent/siyin-basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siyin-basic-parent/siyin-basic-util/siyin-basic-util.iml" filepath="$PROJECT_DIR$/siyin-basic-parent/siyin-basic-util/siyin-basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siyin-config-service/siyin-config-service.iml" filepath="$PROJECT_DIR$/siyin-config-service/siyin-config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siyin-eureka/siyin-eureka.iml" filepath="$PROJECT_DIR$/siyin-eureka/siyin-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siyin-parent.iml" filepath="$PROJECT_DIR$/siyin-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siyin-plat-parent/siyin-plat-interface/siyin-plat-interface.iml" filepath="$PROJECT_DIR$/siyin-plat-parent/siyin-plat-interface/siyin-plat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siyin-plat-parent/siyin-plat-parent.iml" filepath="$PROJECT_DIR$/siyin-plat-parent/siyin-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siyin-product-parent/siyin-plat-parent (1).iml" filepath="$PROJECT_DIR$/siyin-product-parent/siyin-plat-parent (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/siyin-plat-parent/siyin-plat-service/siyin-plat-service.iml" filepath="$PROJECT_DIR$/siyin-plat-parent/siyin-plat-service/siyin-plat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siyin-product-parent/siyin-product-interface/siyin-product-interface.iml" filepath="$PROJECT_DIR$/siyin-product-parent/siyin-product-interface/siyin-product-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siyin-product-parent/siyin-product-parent.iml" filepath="$PROJECT_DIR$/siyin-product-parent/siyin-product-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siyin-product-parent/siyin-product-service/siyin-product-service.iml" filepath="$PROJECT_DIR$/siyin-product-parent/siyin-product-service/siyin-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siyin-zuul/siyin-zuul.iml" filepath="$PROJECT_DIR$/siyin-zuul/siyin-zuul.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>siyin-parent</artifactId>
+        <groupId>cn.itsource</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>siyin-plat-parent</artifactId>
+    <packaging>pom</packaging>
+
+    <name>siyin-plat-parent</name>
+
+    <modules>
+        <module>siyin-plat-interface</module>
+        <module>siyin-plat-service</module>
+    </modules>
+
+</project>

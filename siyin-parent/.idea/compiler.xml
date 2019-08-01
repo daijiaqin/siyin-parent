@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aigou-basic-generator" />
+        <module name="aigou-basic-util" />
+        <module name="aigou-product-interface" />
+        <module name="aigou-product-service" />
+        <module name="siyin-basic-generator" />
+        <module name="siyin-basic-parent" />
+        <module name="siyin-basic-util" />
+        <module name="siyin-basicparent" />
+        <module name="siyin-config-service" />
+        <module name="siyin-eureka" />
+        <module name="siyin-plat-interface" />
+        <module name="siyin-plat-service" />
+        <module name="siyin-product-interface" />
+        <module name="siyin-product-service" />
+        <module name="siyin-zuul" />
+      </profile>
+      <profile name="Annotation profile for siyin-parent" enabled="true">
+        <sourceOutputDir name="../siyin-platparent/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../siyin-platparent/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="siyin-platparent" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aigou-basic-generator" target="1.5" />
+      <module name="aigou-basic-util" target="1.8" />
+      <module name="aigou-product-interface" target="1.8" />
+      <module name="aigou-product-parent" target="1.8" />
+      <module name="aigou-product-service" target="1.8" />
+      <module name="siyin-basic-generator" target="1.8" />
+      <module name="siyin-basic-parent" target="1.8" />
+      <module name="siyin-basic-util" target="1.8" />
+      <module name="siyin-basicparent" target="1.7" />
+      <module name="siyin-config-service" target="1.8" />
+      <module name="siyin-eureka" target="1.8" />
+      <module name="siyin-parent" target="1.8" />
+      <module name="siyin-plat-interface" target="1.8" />
+      <module name="siyin-plat-interface (1)" target="1.5" />
+      <module name="siyin-plat-parent" target="1.8" />
+      <module name="siyin-plat-parent (1)" target="1.8" />
+      <module name="siyin-plat-service" target="1.8" />
+      <module name="siyin-plat-service (1)" target="1.5" />
+      <module name="siyin-platparent" target="1.7" />
+      <module name="siyin-product-interface" target="1.8" />
+      <module name="siyin-product-parent" target="1.8" />
+      <module name="siyin-product-service" target="1.8" />
+      <module name="siyin-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
